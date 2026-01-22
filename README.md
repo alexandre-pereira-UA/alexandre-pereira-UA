@@ -36,8 +36,7 @@ Below you can see my Github activity:
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-pereira-UA&layout=compact&theme=dark)
 
 ---
-
+-->
 <p align="center">
   <i>Thank you for visiting my profile.</i>
 </p>
--->
