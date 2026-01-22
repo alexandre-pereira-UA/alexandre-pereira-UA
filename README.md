@@ -1,7 +1,7 @@
 # Hi there, I'm Alexandre Pereira! 👋 🎓
 
 ### 👨‍💻 Computer and Informatics Engineering Student @ UA
-**LECI** student in University of Aveiro (2023-2027). 
+**LECI** student from University of Aveiro (2023-2027). 
 
 ---
 
@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" align="center"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="25" align="center"> <img src="https://img.shields.io/badge/VHDL-%23ffa000.svg?style=for-the-badge" height="25" align="center"> <img src="https://img.shields.io/badge/MIPS%20Assembly-%23005299.svg?style=for-the-badge" height="25" align="center"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" align="center">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" align="center">
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25" align="center">
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25" align="center"> <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=matlab&logoColor=white" height="25" align="center"> <img src="https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=postgresql&logoColor=white" height="25" align="center">
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 Github statistics
+<!--### 📊 Github statistics 
 
 Below you can see my Github activity:
 
@@ -40,3 +40,4 @@ Below you can see my Github activity:
 <p align="center">
   <i>Thank you for visiting my profile.</i>
 </p>
+-->
