@@ -1,7 +1,7 @@
 # Hi there, I'm Alexandre Pereira! 👋 🎓
 
 ### 👨‍💻 Computer and Informatics Engineering Student @ UA
-**LECI** student from University of Aveiro (2023-2027). 
+**LECI** student from University of Aveiro (2023-present). 
 
 ---
 
