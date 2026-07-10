@@ -7,7 +7,7 @@
 
 ### 🚀 About me
 
-- 🔭 Currently in the 2nd year of the 2nd semester.
+- 🔭 Currently in the 3rd year of the course.
 - 🌱 I’m interested in computer architecture, digital design, IoT and networks.
 - 🎓 In my repository [LECI-UA](https://github.com/alexandre-pereira-UA/LECI-UA.git) you can find my study materials.
 - 📫 How to reach me: [alexandre.rp@ua.pt](mailto:alexandre.rp@ua.pt)
